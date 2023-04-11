@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur Image](https://imgur.com/a/RTr4pZ3.gif)
+![Imgur GIF](https://imgur.com/a/RTr4pZ3.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
